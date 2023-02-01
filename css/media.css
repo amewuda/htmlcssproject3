@@ -1,0 +1,174 @@
+@media screen and (max-width: 770px){
+    body{
+        background-color:rgb(33, 66, 109);
+    }
+     /* THE NAVIGATION */
+     nav{
+        float: right;
+        display: block;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+    }
+    ul{
+        margin: 0;
+        padding: 0;
+    }
+    .one li{
+        display: right;
+        display: inline; 
+        padding: 0 15px;
+        text-transform: uppercase;
+        font-size: 1.1em;
+        }
+    .one a{
+        text-decoration: none;
+        font-weight: bold;
+        color: rgb(161, 42, 42);
+    }
+    .one a:hover{
+        color: rgb(206, 203, 35);
+        font-size: 0.98rem;
+    }
+    /* AT THE JOIN US */
+    section form{
+        padding-top: 10px;
+        padding-bottom: 20px;
+        float:left;
+        display: block;
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 496px){
+    body{
+        background-color: rgb(109, 28, 55);
+    }
+    /* THE NAVIGATION */
+    nav{
+        float: right;
+        display: block;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+    }
+    ul{
+        margin: 0;
+        padding: 0;
+    }
+    .one li{
+        display: right;
+        display: inline; 
+        padding: 0 15px;
+        text-transform: uppercase;
+        font-size: 1.1em;
+        }
+    .one a{
+        text-decoration: none;
+        font-weight: bold;
+    }
+    .one a:hover{
+        color: rgb(206, 203, 35);
+        font-size: 0.98rem;
+    }
+}
+
+@media screen and (max-width: 412px){
+    body{
+        background-color: rgb(49, 109, 189);
+    }
+    /* THE NAVIGATION */
+    nav{
+        float: right;
+        display: block;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+    }
+    ul{
+        margin: 0;
+        padding: 0;
+    }
+    .one li{
+        display: right;
+        display: inline; 
+        padding: 0 10px;
+        text-transform: uppercase;
+        font-size: 1.2em;
+        }
+    .one a{
+        text-decoration: none;
+        font-weight: bold;
+    }
+    .one a:hover{
+        color: rgb(206, 103, 35);
+        font-size: 0.98rem;
+    }
+
+}
+
+
+@media screen and (max-width: 360px){
+    body{
+        background-color: rgb(168, 68, 155);
+    }
+    /* THE NAVIGATION */
+    nav{
+        float: right;
+        display: block;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+    }
+    ul{
+        margin: 0;
+        padding: 0;
+    }
+    .one li{
+        display: right;
+        display: inline; 
+        padding: 0 7px;
+        text-transform: uppercase;
+        font-size: 0.9em;
+        }
+    .one a{
+        text-decoration: none;
+        font-weight: bold;
+    }
+    .one a:hover{
+        color: rgb(35, 166, 206);
+        font-size: 0.98rem;
+    }
+
+}
+
+
+@media screen and (max-width: 320px){
+    body{
+        background-color: rgb(224, 70, 70);
+    }
+    /* THE NAVIGATION */
+    nav{
+        float: right;
+        display: block;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+    }
+    ul{
+        margin: 0;
+        padding: 0;
+    }
+    .one li{
+        display: right;
+        display: inline; 
+        padding: 0 9px;
+        text-transform: uppercase;
+        font-size: 0.9em;
+        }
+    .one a{
+        text-decoration: none;
+        font-weight: bold;
+    }
+    .one a:hover{
+        color: rgb(206, 103, 35);
+        font-size: 0.98rem;
+    }
+
+}
+
